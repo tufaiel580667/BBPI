@@ -1,0 +1,13 @@
+body{
+    background-color: fuchsia;
+    padding: 100px;
+}
+h1{
+    background-color: aqua;
+}
+h2{
+    background-color: chartreuse;
+}
+h3{
+    background-color: darkcyan;
+}
